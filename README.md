@@ -18,9 +18,13 @@
 	<a href="https://www.hackerrank.com/agunapache28"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <img src="https://mpng.subpng.com/20190209/wwv/kisspng-clip-art-computer-programming-computer-software-so-tvos-development-5c5eba9e83d335.22115048154971203054.jpg" width="600" height="400"/>
-</div>
+<a href="https://media.istockphoto.com/photos/cyber-security-web-development-and-work-in-it-concept-picture-id1289411982?b=1&k=20&m=1289411982&s=170667a&w=0&h=0R3OXR4L6LOGphYA3sul4bWQwpGj_DSl05ENiP2kRZg=">
+  <img align="center" src="https://media.istockphoto.com/photos/cyber-security-web-development-and-work-in-it-concept-picture-id1289411982?b=1&k=20&m=1289411982&s=170667a&w=0&h=0R3OXR4L6LOGphYA3sul4bWQwpGj_DSl05ENiP2kRZg=" width="500" height="300"/>
+</a>
+<a href="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80">
+  <img align="center" src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80" width="500" height="300"/>
+</a>
+
 
 ## 🛠️ My Skills
 
@@ -86,8 +90,29 @@
 
 <br/>
 
+## 📊 Github Stats
+![Akshata Gunapache's Github Stats](https://github-readme-stats.vercel.app/api?username=Akshata-Gunapache&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshata-Gunapache&theme=dark)](https://github.com/Akshata-Gunapache/github-readme-streak-stats)
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+[![Akshata's github activity graph](https://activity-graph.herokuapp.com/graph?username=Akshata-Gunapache&theme=dracula)](https://github.com/Akshata-Gunapache/github-readme-activity-graph)
+
+## Readme Stats✨
+
+<a href="https://github.com/Akshata-Gunapache/CodeIN-Community-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=CodeIN-Community-Website" />
+</a>
+<a href="https://github.com/Akshata-Gunapache/Snake-Arcade-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Snake-Arcade-Game" />
+</a>
+<a href="https://github.com/Akshata-Gunapache/Python-Assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Python-Assistant" />
+</a>
+<a href="https://github.com/Akshata-Gunapache/Akshata-Gunapache">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Akshata-Gunapache" />
+</a>
+
+
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 <p align="center">
 	<a href="mailto:agunapache28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Akshata-Gunapache"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
