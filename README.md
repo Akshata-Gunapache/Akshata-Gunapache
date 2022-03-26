@@ -19,10 +19,10 @@
 </p>
 
 <a href="https://media.istockphoto.com/photos/cyber-security-web-development-and-work-in-it-concept-picture-id1289411982?b=1&k=20&m=1289411982&s=170667a&w=0&h=0R3OXR4L6LOGphYA3sul4bWQwpGj_DSl05ENiP2kRZg=">
-  <img  src="https://media.istockphoto.com/photos/cyber-security-web-development-and-work-in-it-concept-picture-id1289411982?b=1&k=20&m=1289411982&s=170667a&w=0&h=0R3OXR4L6LOGphYA3sul4bWQwpGj_DSl05ENiP2kRZg=" width="500" height="300"/>
+  <img  src="https://media.istockphoto.com/photos/cyber-security-web-development-and-work-in-it-concept-picture-id1289411982?b=1&k=20&m=1289411982&s=170667a&w=0&h=0R3OXR4L6LOGphYA3sul4bWQwpGj_DSl05ENiP2kRZg=" width=49%/>
 </a>
 <a href="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80">
-  <img  src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80" width="500" height="300"/>
+  <img  src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80" width="500" height="330"/>
 </a>
 
 
@@ -93,13 +93,13 @@
 ## 📊 Github Stats
 
 <a href="https://github-readme-stats.vercel.app/api?username=Akshata-Gunapache&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshata-Gunapache&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width=40% />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshata-Gunapache&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width=49% />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Akshata-Gunapache&theme=dark">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshata-Gunapache&theme=dark" width=40%/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshata-Gunapache&theme=dark" width=49%/>
 </a>
 <a href="https://activity-graph.herokuapp.com/graph?username=Akshata-Gunapache&theme=dracula">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Akshata-Gunapache&theme=dracula" width=95%/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Akshata-Gunapache&theme=dracula" width=99%/>
 </a>
 
 ## Repo Stats✨
