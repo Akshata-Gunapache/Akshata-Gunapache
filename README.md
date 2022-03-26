@@ -91,10 +91,16 @@
 <br/>
 
 ## 📊 Github Stats
-![Akshata Gunapache's Github Stats](https://github-readme-stats.vercel.app/api?username=Akshata-Gunapache&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshata-Gunapache&theme=dark)](https://github.com/Akshata-Gunapache/github-readme-streak-stats)
 
-[![Akshata's github activity graph](https://activity-graph.herokuapp.com/graph?username=Akshata-Gunapache&theme=dracula)](https://github.com/Akshata-Gunapache/github-readme-activity-graph)
+<a href="https://github-readme-stats.vercel.app/api?username=Akshata-Gunapache&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshata-Gunapache&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Akshata-Gunapache&theme=dark">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshata-Gunapache&theme=dark" />
+</a>
+<a href="https://activity-graph.herokuapp.com/graph?username=Akshata-Gunapache&theme=dracula">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Akshata-Gunapache&theme=dracula" />
+</a>
 
 ## Repo Stats✨
 
