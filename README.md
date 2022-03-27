@@ -116,6 +116,17 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/2) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
+2. 💪 Opened PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/2) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
+3. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/1) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
+4. 💪 Opened PR [#1](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/1) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
+5. 💪 Opened PR [#57](https://github.com/Umesh-01/Python-Assistant/pull/57) in [Umesh-01/Python-Assistant](https://github.com/Umesh-01/Python-Assistant)
+6. ❌ Closed PR [#31](https://github.com/Umesh-01/Python-Assistant/pull/31) in [Umesh-01/Python-Assistant](https://github.com/Umesh-01/Python-Assistant)
+7. 🗣 Commented on [#1](https://github.com/PhantomRex123/Arduino-Smart-House/issues/1) in [PhantomRex123/Arduino-Smart-House](https://github.com/PhantomRex123/Arduino-Smart-House)
+8. 🗣 Commented on [#1](https://github.com/PhantomRex123/Arduino-Smart-House/issues/1) in [PhantomRex123/Arduino-Smart-House](https://github.com/PhantomRex123/Arduino-Smart-House)
+9. 🗣 Commented on [#31](https://github.com/Umesh-01/Python-Assistant/issues/31) in [Umesh-01/Python-Assistant](https://github.com/Umesh-01/Python-Assistant)
+10. 🗣 Commented on [#1](https://github.com/PhantomRex123/Arduino-Smart-House/issues/1) in [PhantomRex123/Arduino-Smart-House](https://github.com/PhantomRex123/Arduino-Smart-House)
+<!--END_SECTION:activity-->
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 <p align="center">
