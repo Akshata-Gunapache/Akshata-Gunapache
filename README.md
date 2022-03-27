@@ -114,6 +114,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Akshata-Gunapache" />
 </a>
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 <p align="center">
