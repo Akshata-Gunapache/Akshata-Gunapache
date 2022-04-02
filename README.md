@@ -101,8 +101,11 @@
 
 ## Repo Stats✨
 
-<a href="https://github.com/Akshata-Gunapache/CodeIN-Community-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=CodeIN-Community-Website" />
+<a href="https://github.com/Akshata-Gunapache/Akshata-Gunapache">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Akshata-Gunapache" />
+</a>
+<a href="https://github.com/Akshata-Gunapache/Clone-IT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Clone-IT" />
 </a>
 <a href="https://github.com/Akshata-Gunapache/Snake-Arcade-Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Snake-Arcade-Game" />
@@ -113,6 +116,7 @@
 <a href="https://github.com/Akshata-Gunapache/Akshata-Gunapache">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Akshata-Gunapache" />
 </a>
+
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
