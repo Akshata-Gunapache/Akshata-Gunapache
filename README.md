@@ -117,12 +117,12 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-2. ❗️ Opened issue [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-3. 🗣 Commented on [#57](https://github.com/Umesh-01/Python-Assistant/issues/57) in [Umesh-01/Python-Assistant](https://github.com/Umesh-01/Python-Assistant)
-4. 🎉 Merged PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/2) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
-5. 💪 Opened PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/2) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
-6. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/1) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
-7. 💪 Opened PR [#1](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/1) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
+2. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+3. ❗️ Opened issue [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+4. 🗣 Commented on [#57](https://github.com/Umesh-01/Python-Assistant/issues/57) in [Umesh-01/Python-Assistant](https://github.com/Umesh-01/Python-Assistant)
+5. 🎉 Merged PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/2) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
+6. 💪 Opened PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/2) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
+7. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/1) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
 8. 🗣 Commented on [#1](https://github.com/PhantomRex123/Arduino-Smart-House/issues/1) in [PhantomRex123/Arduino-Smart-House](https://github.com/PhantomRex123/Arduino-Smart-House)
 9. 🗣 Commented on [#31](https://github.com/Umesh-01/Python-Assistant/issues/31) in [Umesh-01/Python-Assistant](https://github.com/Umesh-01/Python-Assistant)
 10. 🗣 Commented on [#1](https://github.com/PhantomRex123/Arduino-Smart-House/issues/1) in [PhantomRex123/Arduino-Smart-House](https://github.com/PhantomRex123/Arduino-Smart-House)
