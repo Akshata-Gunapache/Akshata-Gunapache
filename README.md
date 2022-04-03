@@ -120,13 +120,13 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#242](https://github.com/Rayman-Sodhi/Clone-IT/issues/242) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-2. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+1. 🗣 Commented on [#57](https://github.com/Umesh-01/Python-Assistant/issues/57) in [Umesh-01/Python-Assistant](https://github.com/Umesh-01/Python-Assistant)
+2. 🗣 Commented on [#242](https://github.com/Rayman-Sodhi/Clone-IT/issues/242) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 3. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-4. ❗️ Opened issue [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-5. 🗣 Commented on [#57](https://github.com/Umesh-01/Python-Assistant/issues/57) in [Umesh-01/Python-Assistant](https://github.com/Umesh-01/Python-Assistant)
-6. 🎉 Merged PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/2) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
-7. 💪 Opened PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/2) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
+4. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+5. ❗️ Opened issue [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+6. 🗣 Commented on [#57](https://github.com/Umesh-01/Python-Assistant/issues/57) in [Umesh-01/Python-Assistant](https://github.com/Umesh-01/Python-Assistant)
+7. 🎉 Merged PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache/pull/2) in [Akshata-Gunapache/Akshata-Gunapache](https://github.com/Akshata-Gunapache/Akshata-Gunapache)
 <!--END_SECTION:activity-->
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
