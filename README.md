@@ -107,6 +107,9 @@
 <a href="https://github.com/Akshata-Gunapache/Clone-IT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Clone-IT" />
 </a>
+<a href="https://github.com/Akshata-Gunapache/Wordle-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Wordle-Clone" />
+</a>
 <a href="https://github.com/Akshata-Gunapache/Snake-Arcade-Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Snake-Arcade-Game" />
 </a>
