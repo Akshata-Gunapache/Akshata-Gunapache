@@ -126,10 +126,10 @@
 1. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 2. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 3. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-4. 💪 Opened PR [#263](https://github.com/Rayman-Sodhi/Clone-IT/pull/263) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-5. 💪 Opened PR [#251](https://github.com/Rayman-Sodhi/Clone-IT/pull/251) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-6. 🗣 Commented on [#57](https://github.com/Umesh-01/Python-Assistant/issues/57) in [Umesh-01/Python-Assistant](https://github.com/Umesh-01/Python-Assistant)
-7. 🗣 Commented on [#242](https://github.com/Rayman-Sodhi/Clone-IT/issues/242) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+4. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+5. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+6. 💪 Opened PR [#263](https://github.com/Rayman-Sodhi/Clone-IT/pull/263) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+7. 💪 Opened PR [#251](https://github.com/Rayman-Sodhi/Clone-IT/pull/251) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 <!--END_SECTION:activity-->
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
