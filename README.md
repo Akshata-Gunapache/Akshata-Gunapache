@@ -128,10 +128,10 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-2. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-3. 💪 Opened PR [#295](https://github.com/Rayman-Sodhi/Clone-IT/pull/295) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-4. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-5. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+2. 💪 Opened PR [#298](https://github.com/Rayman-Sodhi/Clone-IT/pull/298) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+3. 🗣 Commented on [#297](https://github.com/Rayman-Sodhi/Clone-IT/issues/297) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+4. 🗣 Commented on [#297](https://github.com/Rayman-Sodhi/Clone-IT/issues/297) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+5. ❗️ Opened issue [#297](https://github.com/Rayman-Sodhi/Clone-IT/issues/297) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 6. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 7. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 <!--END_SECTION:activity-->
