@@ -127,13 +127,13 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#298](https://github.com/Rayman-Sodhi/Clone-IT/issues/298) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-2. 🗣 Commented on [#298](https://github.com/Rayman-Sodhi/Clone-IT/issues/298) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-3. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-4. 💪 Opened PR [#298](https://github.com/Rayman-Sodhi/Clone-IT/pull/298) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-5. 🗣 Commented on [#297](https://github.com/Rayman-Sodhi/Clone-IT/issues/297) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-6. 🗣 Commented on [#297](https://github.com/Rayman-Sodhi/Clone-IT/issues/297) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-7. ❗️ Opened issue [#297](https://github.com/Rayman-Sodhi/Clone-IT/issues/297) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+1. 💪 Opened PR [#608](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/608) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. 🗣 Commented on [#607](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/607) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. ❗️ Opened issue [#607](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/607) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. 🗣 Commented on [#298](https://github.com/Rayman-Sodhi/Clone-IT/issues/298) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+5. 🗣 Commented on [#298](https://github.com/Rayman-Sodhi/Clone-IT/issues/298) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+6. 🗣 Commented on [#239](https://github.com/Rayman-Sodhi/Clone-IT/issues/239) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+7. 💪 Opened PR [#298](https://github.com/Rayman-Sodhi/Clone-IT/pull/298) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 <!--END_SECTION:activity-->
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
