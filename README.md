@@ -127,13 +127,13 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#300](https://github.com/Rayman-Sodhi/Clone-IT/pull/300) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-2. 💪 Opened PR [#300](https://github.com/Rayman-Sodhi/Clone-IT/pull/300) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-3. 💪 Opened PR [#608](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/608) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. 🗣 Commented on [#607](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/607) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. ❗️ Opened issue [#607](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/607) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-6. 🗣 Commented on [#298](https://github.com/Rayman-Sodhi/Clone-IT/issues/298) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-7. 🗣 Commented on [#298](https://github.com/Rayman-Sodhi/Clone-IT/issues/298) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+1. ❌ Closed PR [#295](https://github.com/Rayman-Sodhi/Clone-IT/pull/295) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+2. 💪 Opened PR [#303](https://github.com/Rayman-Sodhi/Clone-IT/pull/303) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+3. ❌ Closed PR [#300](https://github.com/Rayman-Sodhi/Clone-IT/pull/300) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+4. 💪 Opened PR [#300](https://github.com/Rayman-Sodhi/Clone-IT/pull/300) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+5. 💪 Opened PR [#608](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/608) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+6. 🗣 Commented on [#607](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/607) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+7. ❗️ Opened issue [#607](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/607) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
