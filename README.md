@@ -9,7 +9,7 @@
 <h5 align="center">I am a Computer Science Student at PES University,Bangalore. I like to code, design, innovate and experiment various domains of technology. I am an enthusiastic self-learner and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
-<h3>💻My Competitive Coding Profiles</h3>
+<h2><img src="https://img.icons8.com/nolan/64/hardworking--v2.png" align="center" height="40" width="40">My Competitive Coding Profiles</h2>
 
 <p align="center">
 	<a href="https://leetcode.com/Akshata_4444/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
@@ -23,7 +23,7 @@
 </a>
 </p>
 
-## 🛠️ My Skills
+<h2><img src="https://img.icons8.com/nolan/64/work.png" align="center" height="40" width="40">My Skills</h2>
 
 <h3>Programming languages</h3>
 
@@ -90,7 +90,7 @@
 
 <br/>
 
-## 📊 Github Stats
+## Github Stats <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-stats-business-and-finance-prettycons-lineal-color-prettycons.png" align="center" height="35" width="35">
 
 <a href="https://github-readme-stats.vercel.app/api?username=Akshata-Gunapache&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshata-Gunapache&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width=49% />
@@ -106,7 +106,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata-Gunapache&layout=compact&theme=dracula">
 </a>
 
-## Repo Stats✨
+## Repo Stats <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-stats-investing-flaticons-flat-flat-icons-2.png" align="center" height="35" width="35">
 
 <a href="https://github.com/Akshata-Gunapache/Akshata-Gunapache">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Akshata-Gunapache" />
@@ -146,11 +146,11 @@
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 <p align="center">
-	<a href="mailto:agunapache28@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png" alt="Gmail"/ target="#"></a>
-	<a href="https://github.com/Akshata-Gunapache"><img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub"/ target="#"></a>
-	<a href="https://www.linkedin.com/in/akshata-gunapache-4a5bb1221/"><img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/ target="#"></a>
-	<a href="https://www.instagram.com/_.iam._.aag._/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/ target="#"></a>
-	<a href="https://dribbble.com/akshata_4444"><img src="https://img.icons8.com/nolan/64/dribbble.png" alt="Dribble"/ target="#"></a>
-	<a href="https://twitter.com/agunapache28"><img src="https://img.icons8.com/nolan/64/twitter.png" alt="Twitter"/ target="#"></a>
+	<a href="mailto:agunapache28@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Akshata-Gunapache"><img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/akshata-gunapache-4a5bb1221/"><img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/_.iam._.aag._/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/></a>
+	<a href="https://dribbble.com/akshata_4444"><img src="https://img.icons8.com/nolan/64/dribbble.png" alt="Dribble"/></a>
+	<a href="https://twitter.com/agunapache28"><img src="https://img.icons8.com/nolan/64/twitter.png" alt="Twitter"/></a>
 	
 </p>
