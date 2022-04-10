@@ -127,13 +127,13 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#649](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/649) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-2. 🗣 Commented on [#648](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/648) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. ❗️ Opened issue [#648](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/648) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. 🗣 Commented on [#303](https://github.com/Rayman-Sodhi/Clone-IT/issues/303) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-5. ❌ Closed PR [#295](https://github.com/Rayman-Sodhi/Clone-IT/pull/295) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-6. 💪 Opened PR [#303](https://github.com/Rayman-Sodhi/Clone-IT/pull/303) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-7. ❌ Closed PR [#300](https://github.com/Rayman-Sodhi/Clone-IT/pull/300) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+1. 🗣 Commented on [#1](https://github.com/PhantomRex123/Arduino-Smart-House/issues/1) in [PhantomRex123/Arduino-Smart-House](https://github.com/PhantomRex123/Arduino-Smart-House)
+2. 💪 Opened PR [#649](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/649) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. 🗣 Commented on [#648](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/648) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. ❗️ Opened issue [#648](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/648) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. 🗣 Commented on [#303](https://github.com/Rayman-Sodhi/Clone-IT/issues/303) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+6. ❌ Closed PR [#295](https://github.com/Rayman-Sodhi/Clone-IT/pull/295) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+7. 💪 Opened PR [#303](https://github.com/Rayman-Sodhi/Clone-IT/pull/303) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 <!--END_SECTION:activity-->
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
