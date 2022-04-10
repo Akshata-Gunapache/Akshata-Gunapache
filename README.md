@@ -146,11 +146,11 @@
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 <p align="center">
-	<a href="mailto:agunapache28@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png" alt="Gmail"/ target="_blank"></a>
-	<a href="https://github.com/Akshata-Gunapache"><img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub"/ target="_blank"></a>
-	<a href="https://www.linkedin.com/in/akshata-gunapache-4a5bb1221/"><img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/ target="_blank"></a>
-	<a href="https://www.instagram.com/_.iam._.aag._/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/ target="_blank"></a>
-	<a href="https://dribbble.com/akshata_4444"><img src="https://img.icons8.com/nolan/64/dribbble.png" alt="Dribble"/ target="_blank"></a>
-	<a href="https://twitter.com/agunapache28"><img src="https://img.icons8.com/nolan/64/twitter.png" alt="Twitter"/ target="_blank"></a>
+	<a href="mailto:agunapache28@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png" alt="Gmail"/ target="#"></a>
+	<a href="https://github.com/Akshata-Gunapache"><img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub"/ target="#"></a>
+	<a href="https://www.linkedin.com/in/akshata-gunapache-4a5bb1221/"><img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/ target="#"></a>
+	<a href="https://www.instagram.com/_.iam._.aag._/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/ target="#"></a>
+	<a href="https://dribbble.com/akshata_4444"><img src="https://img.icons8.com/nolan/64/dribbble.png" alt="Dribble"/ target="#"></a>
+	<a href="https://twitter.com/agunapache28"><img src="https://img.icons8.com/nolan/64/twitter.png" alt="Twitter"/ target="#"></a>
 	
 </p>
