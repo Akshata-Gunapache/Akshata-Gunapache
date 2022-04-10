@@ -28,13 +28,14 @@
 <h3>Programming languages</h3>
 
 <p align="center"> 
+  &emsp;
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   &emsp; 
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
   &emsp;
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
   &emsp;
-     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </p>
 
 <h3>Software & Tools</h3>
@@ -67,6 +68,8 @@
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
+  &emsp;
+<a href="#"><img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"></a>   
 </p>
 
 <h3>Frameworks</h3>
@@ -125,7 +128,9 @@
 </a>
 
 
-### :zap: Recent Activity
+<details>
+ <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
+	 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/PhantomRex123/Arduino-Smart-House/issues/1) in [PhantomRex123/Arduino-Smart-House](https://github.com/PhantomRex123/Arduino-Smart-House)
 2. 💪 Opened PR [#649](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/649) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
@@ -135,13 +140,17 @@
 6. ❌ Closed PR [#295](https://github.com/Rayman-Sodhi/Clone-IT/pull/295) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 7. 💪 Opened PR [#303](https://github.com/Rayman-Sodhi/Clone-IT/pull/303) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 <!--END_SECTION:activity-->
+	 
+</b>
+</details>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
 <p align="center">
-	<a href="mailto:agunapache28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Akshata-Gunapache"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/akshata-gunapache-4a5bb1221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://dribbble.com/akshata_4444"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
-	<a href="https://www.instagram.com/_.iam._.aag._/"><img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://www.behance.net/akshatagunapac"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+	<a href="mailto:agunapache28@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Akshata-Gunapache"><img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/akshata-gunapache-4a5bb1221/"><img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/_.iam._.aag._/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/></a>
+	<a href="https://dribbble.com/akshata_4444"><img src="https://img.icons8.com/nolan/64/dribbble.png" alt="Dribble"/></a>
+	<a href="https://twitter.com/agunapache28"><img src="https://img.icons8.com/nolan/64/twitter.png" alt="Twitter"/></a>
+	
 </p>
