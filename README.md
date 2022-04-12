@@ -132,13 +132,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#742](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/742) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-2. ❗️ Opened issue [#742](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/742) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. 🗣 Commented on [#690](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/690) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. 💪 Opened PR [#690](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/690) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. ❌ Closed PR [#649](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/649) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-6. 🗣 Commented on [#608](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/608) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-7. 🗣 Commented on [#1](https://github.com/PhantomRex123/Arduino-Smart-House/issues/1) in [PhantomRex123/Arduino-Smart-House](https://github.com/PhantomRex123/Arduino-Smart-House)
+1. 🗣 Commented on [#746](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/746) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. ❗️ Opened issue [#746](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/746) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. 🗣 Commented on [#742](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/742) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. ❗️ Opened issue [#742](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/742) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. 🗣 Commented on [#690](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/690) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+6. 💪 Opened PR [#690](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/690) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+7. ❌ Closed PR [#649](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/649) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
 	 
 </b>
