@@ -132,13 +132,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#806](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/806) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-2. ❗️ Opened issue [#806](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/806) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. 💪 Opened PR [#796](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/796) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. 🗣 Commented on [#795](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/795) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. ❗️ Opened issue [#795](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/795) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-6. 💪 Opened PR [#794](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/794) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-7. ❌ Closed PR [#760](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/760) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+1. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT/pull/1) in [Akshata-Gunapache/First-Semester-Project-RAT](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT)
+2. 💪 Opened PR [#1](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT/pull/1) in [Akshata-Gunapache/First-Semester-Project-RAT](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT)
+3. 🗣 Commented on [#806](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/806) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. ❗️ Opened issue [#806](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/806) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. 💪 Opened PR [#796](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/796) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+6. 🗣 Commented on [#795](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/795) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+7. ❗️ Opened issue [#795](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/795) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
 	 
 </b>
