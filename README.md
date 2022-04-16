@@ -109,9 +109,6 @@
 <a href="https://github.com/Akshata-Gunapache/Akshata-Gunapache">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Akshata-Gunapache" />
 </a>
-<a href="https://github.com/Akshata-Gunapache/Clone-IT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Clone-IT" />
-</a>
 <a href="https://github.com/Akshata-Gunapache/Wordle-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Wordle-Clone" />
 </a>
@@ -124,7 +121,9 @@
 <a href="https://github.com/Akshata-Gunapache/Starbucks-Landing-Page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Starbucks-Landing-Page" />
 </a>
-
+<a href="https://github.com/Akshata-Gunapache/CocaCola-Landing-Page">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=CocaCola-Landing-Page" />
+</a>
 
 <details>
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
