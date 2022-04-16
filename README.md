@@ -129,13 +129,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/issues/1) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
-2. 💪 Opened PR [#849](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/849) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. 💪 Opened PR [#1](https://github.com/SarthakSKumar/First-Semester-Project-RAT/pull/1) in [SarthakSKumar/First-Semester-Project-RAT](https://github.com/SarthakSKumar/First-Semester-Project-RAT)
-4. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT/pull/1) in [Akshata-Gunapache/First-Semester-Project-RAT](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT)
-5. 💪 Opened PR [#1](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT/pull/1) in [Akshata-Gunapache/First-Semester-Project-RAT](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT)
-6. 🗣 Commented on [#806](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/806) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-7. ❗️ Opened issue [#806](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/806) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+1. 🗣 Commented on [#853](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/853) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. ❗️ Opened issue [#853](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/853) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. 🗣 Commented on [#1](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/issues/1) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
+4. 💪 Opened PR [#849](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/849) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. 💪 Opened PR [#1](https://github.com/SarthakSKumar/First-Semester-Project-RAT/pull/1) in [SarthakSKumar/First-Semester-Project-RAT](https://github.com/SarthakSKumar/First-Semester-Project-RAT)
+6. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT/pull/1) in [Akshata-Gunapache/First-Semester-Project-RAT](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT)
+7. 💪 Opened PR [#1](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT/pull/1) in [Akshata-Gunapache/First-Semester-Project-RAT](https://github.com/Akshata-Gunapache/First-Semester-Project-RAT)
 <!--END_SECTION:activity-->
 	 
 </b>
