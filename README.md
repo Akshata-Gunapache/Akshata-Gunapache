@@ -113,7 +113,7 @@
 
 
 ## Repo Stats <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-stats-investing-flaticons-flat-flat-icons-2.png" align="center" height="35" width="35">
-
+<p align="center">
 <a href="https://github.com/Akshata-Gunapache/Akshata-Gunapache">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Akshata-Gunapache" />
 </a>
@@ -132,7 +132,7 @@
 <a href="https://github.com/Akshata-Gunapache/CocaCola-Landing-Page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=CocaCola-Landing-Page" />
 </a>
-
+</p>
 <details>
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
@@ -164,8 +164,9 @@
 
 <p align="center">
 <a href="https://wakatime.com/@1cb65f89-ff53-4b19-ac28-44be15705e07"><img src="https://wakatime.com/badge/user/1cb65f89-ff53-4b19-ac28-44be15705e07.svg" alt="Total time coded since Apr 11 2022" /></a>
-<a href="https://gpvc.arturio.dev/Akshata-Gunapache"><img src="https://gpvc.arturio.dev/Akshata-Gunapache" alt="Profile views" /></a>
+<a href="https://komarev.com/ghpvc/?username=Akshata-Gunapache&label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=Akshata-Gunapache&color=blueviolet" alt="Profile views" /></a>
 </p>
+
 
 <p align="center">
 <a href="https://GitHub.com/Akshata-Gunapache/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Profile views" /></a>
