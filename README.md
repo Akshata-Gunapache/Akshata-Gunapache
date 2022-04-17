@@ -159,3 +159,14 @@
 	<a href="https://twitter.com/agunapache28"><img src="https://img.icons8.com/nolan/64/twitter.png" alt="Twitter"/></a>
 	
 </p>
+
+<hr>
+
+<p align="center">
+<a href="https://wakatime.com/@1cb65f89-ff53-4b19-ac28-44be15705e07"><img src="https://wakatime.com/badge/user/1cb65f89-ff53-4b19-ac28-44be15705e07.svg" alt="Total time coded since Apr 11 2022" /></a>
+<a href="https://gpvc.arturio.dev/Akshata-Gunapache"><img src="https://gpvc.arturio.dev/Akshata-Gunapache" alt="Profile views" /></a>
+</p>
+
+<p align="center">
+<a href="https://GitHub.com/Akshata-Gunapache/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Profile views" /></a>
+</p>
