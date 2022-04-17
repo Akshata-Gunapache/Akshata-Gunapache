@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi , I'm Akshata <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Python%20|%20HTML%20|%20CSS%20|%20Javascript%20;4-Star⭐⭐⭐⭐%20on%20Hackerrank(Python);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=A560F7&lines=Computer+Science+Student;Competitive+Programmer;Python%20|%20HTML%20|%20CSS%20|%20Javascript%20;4-Star⭐⭐⭐⭐%20on%20Hackerrank(Python);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h5 align="center">I am a Computer Science Student at PES University,Bangalore. I like to code, design, innovate and experiment various domains of technology. I am an enthusiastic self-learner and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
@@ -16,6 +16,8 @@
 	<a href="https://www.hackerearth.com/@Akshata-Gunapache"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>
   <a href="https://www.codechef.com/users/akshata_4444"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
 	<a href="https://www.hackerrank.com/agunapache28"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+	<a href="https://www.codewars.com/users/Akshata-Gunapache"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
+	
 </p>
 <p align="center">
 <a href="https://media.istockphoto.com/photos/cyber-security-web-development-and-work-in-it-concept-picture-id1289411982?b=1&k=20&m=1289411982&s=170667a&w=0&h=0R3OXR4L6LOGphYA3sul4bWQwpGj_DSl05ENiP2kRZg=">
@@ -52,12 +54,11 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </a>
   &emsp;
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
+    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"> </a>
   &emsp;
     <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"></a>
   &emsp;
-  
-  
+ 
 <h3>Designing Tools</h3>
 <p align="center">
   &emsp;
@@ -67,7 +68,13 @@
   &emsp;
     <a href="#"><img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
   &emsp;
-<a href="#"><img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"></a>   
+	<a href="#"><img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"></a>   
+&emsp;
+	<a href="#"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"> </a>
+  &emsp;
+	<a href="#"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"> </a>
+  &emsp;
+	
 </p>
 
 <h3>Frameworks</h3>
@@ -103,6 +110,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata-Gunapache&layout=compact&theme=dracula">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata-Gunapache&layout=compact&theme=dracula">
 </a>
+
 
 ## Repo Stats <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-stats-investing-flaticons-flat-flat-icons-2.png" align="center" height="35" width="35">
 
