@@ -137,12 +137,12 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#551](https://github.com/arpit456jain/Amazing-Css-Effects/issues/551) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+1. 💪 Opened PR [#552](https://github.com/arpit456jain/Amazing-Css-Effects/pull/552) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
 2. 🗣 Commented on [#551](https://github.com/arpit456jain/Amazing-Css-Effects/issues/551) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-3. ❗️ Opened issue [#551](https://github.com/arpit456jain/Amazing-Css-Effects/issues/551) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-4. 🗣 Commented on [#723](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/723) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+3. 🗣 Commented on [#551](https://github.com/arpit456jain/Amazing-Css-Effects/issues/551) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+4. ❗️ Opened issue [#551](https://github.com/arpit456jain/Amazing-Css-Effects/issues/551) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
 5. 🗣 Commented on [#723](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/723) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-6. 🗣 Commented on [#846](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/846) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+6. 🗣 Commented on [#723](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/723) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 7. 🗣 Commented on [#846](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/846) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 <!--END_SECTION:activity-->
 	 
