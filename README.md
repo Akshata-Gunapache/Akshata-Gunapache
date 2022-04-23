@@ -164,7 +164,7 @@
 
 <p align="center">
 <a href="https://wakatime.com/@1cb65f89-ff53-4b19-ac28-44be15705e07"><img src="https://wakatime.com/badge/user/1cb65f89-ff53-4b19-ac28-44be15705e07.svg" alt="Total time coded since Apr 11 2022" /></a>
-<a href="https://komarev.com/ghpvc/?username=Akshata-Gunapache&label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=Akshata-Gunapache&color=blueviolet" alt="Profile views" /></a>
+<a href="https://komarev.com/ghpvc/?username=Akshata-Gunapache&color=blueviolet"><img src="https://komarev.com/ghpvc/?username=Akshata-Gunapache&color=blueviolet" alt="Profile views" /></a>
 </p>
 
 
