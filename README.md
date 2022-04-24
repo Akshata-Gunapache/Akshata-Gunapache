@@ -137,13 +137,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#562](https://github.com/arpit456jain/Amazing-Css-Effects/pull/562) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-2. 🗣 Commented on [#2](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/issues/2) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
-3. ❗️ Closed issue [#1](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/issues/1) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
-4. 🎉 Merged PR [#2](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/pull/2) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
-5. 🗣 Commented on [#557](https://github.com/arpit456jain/Amazing-Css-Effects/issues/557) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+1. 💪 Opened PR [#957](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/957) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. 💪 Opened PR [#562](https://github.com/arpit456jain/Amazing-Css-Effects/pull/562) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+3. 🗣 Commented on [#2](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/issues/2) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
+4. ❗️ Closed issue [#1](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/issues/1) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
+5. 🎉 Merged PR [#2](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/pull/2) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
 6. 🗣 Commented on [#557](https://github.com/arpit456jain/Amazing-Css-Effects/issues/557) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-7. ❗️ Opened issue [#557](https://github.com/arpit456jain/Amazing-Css-Effects/issues/557) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+7. 🗣 Commented on [#557](https://github.com/arpit456jain/Amazing-Css-Effects/issues/557) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
 <!--END_SECTION:activity-->
 	 
 </b>
