@@ -114,17 +114,17 @@
 
 ## Repo Stats <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-stats-investing-flaticons-flat-flat-icons-2.png" align="center" height="35" width="35">
 <p align="center">
-<a href="https://github.com/Akshata-Gunapache/Akshata-Gunapache">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Akshata-Gunapache" />
-</a>
-<a href="https://github.com/Akshata-Gunapache/Wordle-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Wordle-Clone" />
-</a>
 <a href="https://github.com/Akshata-Gunapache/Snake-Arcade-Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Snake-Arcade-Game" />
 </a>
 <a href="https://github.com/Akshata-Gunapache/Python-Assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Python-Assistant" />
+</a>
+<a href="https://github.com/Akshata-Gunapache/Wordle-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Wordle-Clone" />
+</a>
+<a href="https://github.com/Akshata-Gunapache/Pepsi-Landing-Page ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Pepsi-Landing-Page " />
 </a>
 <a href="https://github.com/Akshata-Gunapache/Starbucks-Landing-Page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=Starbucks-Landing-Page" />
