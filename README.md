@@ -137,13 +137,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#562](https://github.com/arpit456jain/Amazing-Css-Effects/issues/562) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-2. 💪 Opened PR [#988](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/988) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. 🗣 Commented on [#984](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/984) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-4. ❗️ Opened issue [#984](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/984) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-5. 🗣 Commented on [#557](https://github.com/arpit456jain/Amazing-Css-Effects/issues/557) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-6. 💪 Opened PR [#957](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/957) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-7. 💪 Opened PR [#562](https://github.com/arpit456jain/Amazing-Css-Effects/pull/562) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+1. ❌ Reopened PR [#562](https://github.com/arpit456jain/Amazing-Css-Effects/pull/562) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+2. ❌ Closed PR [#562](https://github.com/arpit456jain/Amazing-Css-Effects/pull/562) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+3. 💪 Opened PR [#572](https://github.com/arpit456jain/Amazing-Css-Effects/pull/572) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+4. 🗣 Commented on [#562](https://github.com/arpit456jain/Amazing-Css-Effects/issues/562) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+5. 💪 Opened PR [#988](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/988) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+6. 🗣 Commented on [#984](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/984) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+7. ❗️ Opened issue [#984](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/984) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
 	 
 </b>
