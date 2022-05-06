@@ -137,13 +137,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#440](https://github.com/Rayman-Sodhi/Clone-IT/pull/440) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-2. 🗣 Commented on [#439](https://github.com/Rayman-Sodhi/Clone-IT/issues/439) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-3. ❗️ Opened issue [#439](https://github.com/Rayman-Sodhi/Clone-IT/issues/439) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-4. 🗣 Commented on [#438](https://github.com/Rayman-Sodhi/Clone-IT/issues/438) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-5. ❗️ Opened issue [#438](https://github.com/Rayman-Sodhi/Clone-IT/issues/438) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
-6. 💪 Opened PR [#1211](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1211) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-7. 🗣 Commented on [#1107](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1107) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+1. 🗣 Commented on [#622](https://github.com/arpit456jain/Amazing-Css-Effects/issues/622) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+2. ❗️ Opened issue [#622](https://github.com/arpit456jain/Amazing-Css-Effects/issues/622) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+3. 💪 Opened PR [#440](https://github.com/Rayman-Sodhi/Clone-IT/pull/440) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+4. 🗣 Commented on [#439](https://github.com/Rayman-Sodhi/Clone-IT/issues/439) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+5. ❗️ Opened issue [#439](https://github.com/Rayman-Sodhi/Clone-IT/issues/439) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+6. 🗣 Commented on [#438](https://github.com/Rayman-Sodhi/Clone-IT/issues/438) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+7. ❗️ Opened issue [#438](https://github.com/Rayman-Sodhi/Clone-IT/issues/438) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
 <!--END_SECTION:activity-->
 	 
 </b>
