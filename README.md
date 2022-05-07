@@ -137,13 +137,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1331](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1331) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-2. ❗️ Opened issue [#1331](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1331) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-3. 🗣 Commented on [#623](https://github.com/arpit456jain/Amazing-Css-Effects/issues/623) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-4. ❗️ Opened issue [#623](https://github.com/arpit456jain/Amazing-Css-Effects/issues/623) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-5. 🗣 Commented on [#622](https://github.com/arpit456jain/Amazing-Css-Effects/issues/622) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-6. ❗️ Opened issue [#622](https://github.com/arpit456jain/Amazing-Css-Effects/issues/622) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-7. 💪 Opened PR [#440](https://github.com/Rayman-Sodhi/Clone-IT/pull/440) in [Rayman-Sodhi/Clone-IT](https://github.com/Rayman-Sodhi/Clone-IT)
+1. 💪 Opened PR [#1349](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1349) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+2. 🗣 Commented on [#1331](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1331) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+3. ❗️ Opened issue [#1331](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1331) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+4. 🗣 Commented on [#623](https://github.com/arpit456jain/Amazing-Css-Effects/issues/623) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+5. ❗️ Opened issue [#623](https://github.com/arpit456jain/Amazing-Css-Effects/issues/623) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+6. 🗣 Commented on [#622](https://github.com/arpit456jain/Amazing-Css-Effects/issues/622) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+7. ❗️ Opened issue [#622](https://github.com/arpit456jain/Amazing-Css-Effects/issues/622) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
 <!--END_SECTION:activity-->
 	 
 </b>
