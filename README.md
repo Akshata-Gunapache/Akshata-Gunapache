@@ -137,13 +137,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#623](https://github.com/arpit456jain/Amazing-Css-Effects/issues/623) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-2. 🗣 Commented on [#664](https://github.com/arpit456jain/Amazing-Css-Effects/issues/664) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+1. ❗️ Closed issue [#846](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/846) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+2. 🗣 Commented on [#623](https://github.com/arpit456jain/Amazing-Css-Effects/issues/623) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
 3. 🗣 Commented on [#664](https://github.com/arpit456jain/Amazing-Css-Effects/issues/664) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
 4. 🗣 Commented on [#664](https://github.com/arpit456jain/Amazing-Css-Effects/issues/664) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-5. 🗣 Commented on [#1679](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1679) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+5. 🗣 Commented on [#664](https://github.com/arpit456jain/Amazing-Css-Effects/issues/664) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
 6. 🗣 Commented on [#1679](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1679) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
-7. 💪 Opened PR [#1679](https://github.com/khushi-purwar/WebDev-ProjectKart/pull/1679) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
+7. 🗣 Commented on [#1679](https://github.com/khushi-purwar/WebDev-ProjectKart/issues/1679) in [khushi-purwar/WebDev-ProjectKart](https://github.com/khushi-purwar/WebDev-ProjectKart)
 <!--END_SECTION:activity-->
 	 
 </b>
