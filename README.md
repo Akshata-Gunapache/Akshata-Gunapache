@@ -149,7 +149,7 @@
 </b>
 </details>
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
+## Connect with me <img src="https://img.icons8.com/nolan/64/share-2.png" align="center" height="35" width="35"> 
 <p align="center">
 	<a href="mailto:agunapache28@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Akshata-Gunapache"><img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub"/></a>
