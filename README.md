@@ -111,7 +111,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata-Gunapache&layout=compact&theme=dracula">
 </a>
 
-
+<!-- 
 ## Repo Stats <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-stats-investing-flaticons-flat-flat-icons-2.png" align="center" height="35" width="35">
 <p align="center">
 <a href="https://github.com/Akshata-Gunapache/Snake-Arcade-Game">
@@ -132,7 +132,9 @@
 <a href="https://github.com/Akshata-Gunapache/CocaCola-Landing-Page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshata-Gunapache&repo=CocaCola-Landing-Page" />
 </a>
-</p>
+</p> -->
+
+
 <details>
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
@@ -148,6 +150,8 @@
 	 
 </b>
 </details>
+
+### My weekly coding activity
 
 <!--START_SECTION:waka-->
 
