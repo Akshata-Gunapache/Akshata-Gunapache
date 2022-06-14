@@ -150,6 +150,16 @@
 </details>
 
 <!--START_SECTION:waka-->
+
+```text
+CSS          2 hrs 26 mins   ███████████▒░░░░░░░░░░░░░   45.11 %
+HTML         1 hr 24 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
+JavaScript   1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   19.34 %
+Markdown     24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+PHP          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Connect with me <img src="https://img.icons8.com/nolan/64/share-2.png" align="center" height="35" width="35"> 
