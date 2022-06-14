@@ -149,6 +149,9 @@
 </b>
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Connect with me <img src="https://img.icons8.com/nolan/64/share-2.png" align="center" height="35" width="35"> 
 <p align="center">
 	<a href="mailto:agunapache28@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png" alt="Gmail"/></a>
