@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=A560F7&lines=Computer+Science+Student;Competitive+Programmer;Python%20|%20HTML%20|%20CSS%20|%20Javascript%20;4-Star⭐⭐⭐⭐%20on%20Hackerrank(Python);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">I am a Computer Science Student at PES University,Bangalore. I like to code, design, innovate and experiment various domains of technology. I am an enthusiastic self-learner and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h5 align="center">I am a Computer Science Student at PES University, Bangalore. I like to code, design, innovate and experiment various domains of technology. I am an enthusiastic self-learner and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 <h2><img src="https://img.icons8.com/nolan/64/hardworking--v2.png" align="center" height="40" width="40">My Competitive Coding Profiles</h2>
