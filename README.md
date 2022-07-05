@@ -9,7 +9,7 @@
 <p align="center">I am a <b>Computer Science Student</b> at <b>PES University</b>, <b>Bangalore</b>. I like to <b>code, design, innovate</b> and <b>experiment</b> various domains of technology. I am an enthusiastic <b>self-learner</b> and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</p>
 <h3 align="center">
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐<br><br>
-<i><q>Checkout my portfolio at <a href="https://akshata-gunapache.github.io/">akshata-gunapache.github.io target="_blank"></a></q></i>
+<i><q>Checkout my portfolio at <a href="https://akshata-gunapache.github.io/">akshata-gunapache.github.io</a></q></i>
 </h3>
 <br>
 
