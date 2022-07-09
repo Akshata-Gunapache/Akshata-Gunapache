@@ -193,5 +193,5 @@ C++          0 secs          ░░░░░░░░░░░░░░░░░
 <a href="https://GitHub.com/Akshata-Gunapache/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Profile views" /></a>
 </p>
 
-
+<img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--wLCD6792--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.buymeacoffee.com/uploads/project_updates/2021/05/918bc0ffae9a1865553d54bc11e65c4b.gif" />
 
