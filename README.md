@@ -143,13 +143,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Pepsi-Landing-Page/pull/1) in [Akshata-Gunapache/Pepsi-Landing-Page](https://github.com/Akshata-Gunapache/Pepsi-Landing-Page)
-2. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Starbucks-Landing-Page/pull/1) in [Akshata-Gunapache/Starbucks-Landing-Page](https://github.com/Akshata-Gunapache/Starbucks-Landing-Page)
-3. ❗️ Opened issue [#424](https://github.com/Devs-Dungeon/support/issues/424) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
-4. ❗️ Closed issue [#846](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/846) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-5. 🗣 Commented on [#623](https://github.com/arpit456jain/Amazing-Css-Effects/issues/623) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-6. 🗣 Commented on [#664](https://github.com/arpit456jain/Amazing-Css-Effects/issues/664) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
-7. 🗣 Commented on [#664](https://github.com/arpit456jain/Amazing-Css-Effects/issues/664) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
+1. 🎉 Merged PR [#3](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/pull/3) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
+2. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io/pull/1) in [Akshata-Gunapache/Akshata-Gunapache.github.io](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io)
+3. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Pepsi-Landing-Page/pull/1) in [Akshata-Gunapache/Pepsi-Landing-Page](https://github.com/Akshata-Gunapache/Pepsi-Landing-Page)
+4. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Starbucks-Landing-Page/pull/1) in [Akshata-Gunapache/Starbucks-Landing-Page](https://github.com/Akshata-Gunapache/Starbucks-Landing-Page)
+5. ❗️ Opened issue [#424](https://github.com/Devs-Dungeon/support/issues/424) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
+6. ❗️ Closed issue [#846](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/846) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+7. 🗣 Commented on [#623](https://github.com/arpit456jain/Amazing-Css-Effects/issues/623) in [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects)
 <!--END_SECTION:activity-->
 	 
 </b>
