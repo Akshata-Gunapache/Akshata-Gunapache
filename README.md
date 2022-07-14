@@ -42,6 +42,8 @@
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   &emsp;
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  &emsp;
+     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 </p>
 
 <h3>Software & Tools</h3>
@@ -98,6 +100,11 @@
 </p>
 
 <br/>
+<hr>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+</p>
+<hr>
 
 ## Github Stats <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-stats-business-and-finance-prettycons-lineal-color-prettycons.png" align="center" height="35" width="35">
 
@@ -193,5 +200,4 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 &nbsp<a href="https://www.buymeacoffee.com/Akshata"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wLCD6792--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.buymeacoffee.com/uploads/project_updates/2021/05/918bc0ffae9a1865553d54bc11e65c4b.gif" width="125"/></a>
 
 </p>
-
 
