@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://i.imgur.com/NhtOwt8.png" alt="my banner" width=100%>
+  <img width="100%" src="https://user-images.githubusercontent.com/96786500/181156099-dc5f9d9a-b599-4891-9a0d-24f8f2c0915c.gif">
 </p>
 <h1 align="center">Hi , I'm Akshata <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
