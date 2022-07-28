@@ -65,6 +65,8 @@
   &emsp;
     <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"></a>
   &emsp;
+  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
+  &emsp;
  
 <h3>Designing Tools</h3>
 <p align="center">
