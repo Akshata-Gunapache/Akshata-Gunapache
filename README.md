@@ -178,6 +178,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<img src="https://wakatime.com/share/@Akshata_Gunapache/22d025d2-4479-4595-855e-da8ebaf47f1a.svg" height="300" width="300">
+
 ## Connect with me <img src="https://img.icons8.com/nolan/64/share-2.png" align="center" height="35" width="35"> 
 <p align="center">
 	<a href="mailto:agunapache28@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png" alt="Gmail"/></a>
