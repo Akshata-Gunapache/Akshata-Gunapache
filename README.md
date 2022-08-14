@@ -149,7 +149,7 @@
 </b>
 </details>
 
-### My weekly coding activity
+### My Coding Activity
 
 <!--START_SECTION:waka-->
 
