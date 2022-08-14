@@ -131,6 +131,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata-Gunapache&layout=compact&theme=dracula">
 </a>
 
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <details>
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
