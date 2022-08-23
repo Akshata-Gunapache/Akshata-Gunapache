@@ -137,12 +137,12 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io/pull/2) in [Akshata-Gunapache/Akshata-Gunapache.github.io](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io)
-2. 🎉 Merged PR [#3](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/pull/3) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
-3. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io/pull/1) in [Akshata-Gunapache/Akshata-Gunapache.github.io](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io)
-4. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Pepsi-Landing-Page/pull/1) in [Akshata-Gunapache/Pepsi-Landing-Page](https://github.com/Akshata-Gunapache/Pepsi-Landing-Page)
-5. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Starbucks-Landing-Page/pull/1) in [Akshata-Gunapache/Starbucks-Landing-Page](https://github.com/Akshata-Gunapache/Starbucks-Landing-Page)
-6. ❗️ Opened issue [#424](https://github.com/Devs-Dungeon/support/issues/424) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
+1. ❗️ Opened issue [#27](https://github.com/The-CODE-Plus-Plus-Community/Support/issues/27) in [The-CODE-Plus-Plus-Community/Support](https://github.com/The-CODE-Plus-Plus-Community/Support)
+2. 🎉 Merged PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io/pull/2) in [Akshata-Gunapache/Akshata-Gunapache.github.io](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io)
+3. 🎉 Merged PR [#3](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/pull/3) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
+4. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io/pull/1) in [Akshata-Gunapache/Akshata-Gunapache.github.io](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io)
+5. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Pepsi-Landing-Page/pull/1) in [Akshata-Gunapache/Pepsi-Landing-Page](https://github.com/Akshata-Gunapache/Pepsi-Landing-Page)
+6. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Starbucks-Landing-Page/pull/1) in [Akshata-Gunapache/Starbucks-Landing-Page](https://github.com/Akshata-Gunapache/Starbucks-Landing-Page)
 7. ❗️ Closed issue [#846](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/846) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 <!--END_SECTION:activity-->
 	 
