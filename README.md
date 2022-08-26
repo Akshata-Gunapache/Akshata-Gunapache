@@ -154,16 +154,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2022 - To: 23 August 2022
+From: 10 April 2022 - To: 24 August 2022
 
-Total Time: 154 hrs 8 mins
+Total Time: 155 hrs 10 mins
 
-CSS          46 hrs 36 mins  >>>>>>>>-----------------   30.24 %
-HTML         41 hrs 51 mins  >>>>>>>------------------   27.15 %
-C            38 hrs          >>>>>>-------------------   24.66 %
-JavaScript   25 hrs 7 mins   >>>>---------------------   16.30 %
-Markdown     51 mins         -------------------------   00.56 %
-Text         35 mins         -------------------------   00.38 %
+CSS          46 hrs 36 mins  >>>>>>>>-----------------   30.04 %
+HTML         42 hrs 18 mins  >>>>>>>------------------   27.27 %
+C            38 hrs 8 mins   >>>>>>-------------------   24.58 %
+JavaScript   25 hrs 31 mins  >>>>---------------------   16.45 %
+Markdown     51 mins         -------------------------   00.55 %
+Text         38 mins         -------------------------   00.41 %
 ```
 
 <!--END_SECTION:waka-->
