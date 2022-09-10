@@ -174,7 +174,7 @@ Markdown     51 mins         -------------------------   00.47 %
 	<a href="mailto:agunapache28@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Akshata-Gunapache"><img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/akshata-gunapache-4a5bb1221/"><img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/_.iam._.aag._/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/_.akshata._.aag._/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/></a>
 	<a href="https://dribbble.com/akshata_4444"><img src="https://img.icons8.com/nolan/64/dribbble.png" alt="Dribble"/></a>
 	<a href="https://twitter.com/agunapache28"><img src="https://img.icons8.com/nolan/64/twitter.png" alt="Twitter"/></a>
 	
