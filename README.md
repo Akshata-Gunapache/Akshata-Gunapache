@@ -29,11 +29,7 @@
 	<a href="https://www.codewars.com/users/Akshata-Gunapache"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
 	
 </p>
-<p align="center">
-<a href="https://media.istockphoto.com/photos/cyber-security-web-development-and-work-in-it-concept-picture-id1289411982?b=1&k=20&m=1289411982&s=170667a&w=0&h=0R3OXR4L6LOGphYA3sul4bWQwpGj_DSl05ENiP2kRZg=">
-  <img align="center" src="https://media.istockphoto.com/photos/cyber-security-web-development-and-work-in-it-concept-picture-id1289411982?b=1&k=20&m=1289411982&s=170667a&w=0&h=0R3OXR4L6LOGphYA3sul4bWQwpGj_DSl05ENiP2kRZg=" width=50%/>
-</a>
-</p>
+
 
 <h2><img src="https://img.icons8.com/nolan/64/work.png" align="center" height="40" width="40">My Skills</h2>
 
