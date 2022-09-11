@@ -164,7 +164,7 @@ Markdown     51 mins         -------------------------   00.46 %
 <!--END_SECTION:waka-->
 
 <h2>My DevCard</h2>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Akshata-Gunapache/Akshata-Gunapache/blob/main/devcard.svg" width="350" alt="Akshata's Dev Card"/></a>
+<a href="https://app.daily.dev/Akshata"><img src="https://github.com/Akshata-Gunapache/Akshata-Gunapache/blob/main/devcard.svg" width="350" alt="Akshata's Dev Card"/></a>
 
 ## Connect with me <img src="https://img.icons8.com/nolan/64/share-2.png" align="center" height="35" width="35"> 
 <p align="center">
