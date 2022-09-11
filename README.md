@@ -1,4 +1,3 @@
-
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/96786500/181156099-dc5f9d9a-b599-4891-9a0d-24f8f2c0915c.gif">
 </p>
@@ -168,6 +167,8 @@ Markdown     51 mins         -------------------------   00.46 %
 
 <!--END_SECTION:waka-->
 
+<h2>My DevCard</h2>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Akshata-Gunapache/Akshata-Gunapache/blob/main/devcard.svg" width="350" alt="Akshata's Dev Card"/></a>
 
 ## Connect with me <img src="https://img.icons8.com/nolan/64/share-2.png" align="center" height="35" width="35"> 
 <p align="center">
@@ -193,4 +194,3 @@ Markdown     51 mins         -------------------------   00.46 %
 &nbsp<a href="https://www.buymeacoffee.com/Akshata"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wLCD6792--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.buymeacoffee.com/uploads/project_updates/2021/05/918bc0ffae9a1865553d54bc11e65c4b.gif" width="125"/></a>
 
 </p>
-
