@@ -132,13 +132,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io/pull/3) in [Akshata-Gunapache/Akshata-Gunapache.github.io](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io)
-2. ❗️ Opened issue [#27](https://github.com/The-CODE-Plus-Plus-Community/Support/issues/27) in [The-CODE-Plus-Plus-Community/Support](https://github.com/The-CODE-Plus-Plus-Community/Support)
-3. 🎉 Merged PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io/pull/2) in [Akshata-Gunapache/Akshata-Gunapache.github.io](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io)
-4. 🎉 Merged PR [#3](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/pull/3) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
-5. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io/pull/1) in [Akshata-Gunapache/Akshata-Gunapache.github.io](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io)
-6. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Pepsi-Landing-Page/pull/1) in [Akshata-Gunapache/Pepsi-Landing-Page](https://github.com/Akshata-Gunapache/Pepsi-Landing-Page)
-7. 🎉 Merged PR [#1](https://github.com/Akshata-Gunapache/Starbucks-Landing-Page/pull/1) in [Akshata-Gunapache/Starbucks-Landing-Page](https://github.com/Akshata-Gunapache/Starbucks-Landing-Page)
+1. 🗣 Commented on [#185](https://github.com/swapagarwal/awesome-inspiration/issues/185) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
+2. 💪 Opened PR [#185](https://github.com/swapagarwal/awesome-inspiration/pull/185) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
+3. ❗️ Opened issue [#184](https://github.com/swapagarwal/awesome-inspiration/issues/184) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
+4. 🎉 Merged PR [#3](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io/pull/3) in [Akshata-Gunapache/Akshata-Gunapache.github.io](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io)
+5. ❗️ Opened issue [#27](https://github.com/The-CODE-Plus-Plus-Community/Support/issues/27) in [The-CODE-Plus-Plus-Community/Support](https://github.com/The-CODE-Plus-Plus-Community/Support)
+6. 🎉 Merged PR [#2](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io/pull/2) in [Akshata-Gunapache/Akshata-Gunapache.github.io](https://github.com/Akshata-Gunapache/Akshata-Gunapache.github.io)
+7. 🎉 Merged PR [#3](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page/pull/3) in [Akshata-Gunapache/CocaCola-Landing-Page](https://github.com/Akshata-Gunapache/CocaCola-Landing-Page)
 <!--END_SECTION:activity-->
 	 
 </b>
