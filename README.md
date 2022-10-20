@@ -132,13 +132,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/63) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
-2. 🗣 Commented on [#62](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/62) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
-3. ❗️ Opened issue [#62](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/62) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
-4. 🗣 Commented on [#185](https://github.com/swapagarwal/awesome-inspiration/issues/185) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
-5. 🗣 Commented on [#403](https://github.com/zen-audio-player/zen-audio-player.github.io/issues/403) in [zen-audio-player/zen-audio-player.github.io](https://github.com/zen-audio-player/zen-audio-player.github.io)
-6. ❗️ Opened issue [#404](https://github.com/zen-audio-player/zen-audio-player.github.io/issues/404) in [zen-audio-player/zen-audio-player.github.io](https://github.com/zen-audio-player/zen-audio-player.github.io)
-7. 💪 Opened PR [#403](https://github.com/zen-audio-player/zen-audio-player.github.io/pull/403) in [zen-audio-player/zen-audio-player.github.io](https://github.com/zen-audio-player/zen-audio-player.github.io)
+1. ❗️ Opened issue [#66](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/66) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+2. 💪 Opened PR [#65](https://github.com/VidhiBhatt01/The-Frontend-Store/pull/65) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+3. 💪 Opened PR [#64](https://github.com/VidhiBhatt01/The-Frontend-Store/pull/64) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+4. ❗️ Opened issue [#63](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/63) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+5. 🗣 Commented on [#62](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/62) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+6. ❗️ Opened issue [#62](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/62) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+7. 🗣 Commented on [#185](https://github.com/swapagarwal/awesome-inspiration/issues/185) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
 <!--END_SECTION:activity-->
 	 
 </b>
