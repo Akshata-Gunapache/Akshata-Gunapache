@@ -132,13 +132,13 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#68](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/68) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
-2. ❌ Closed PR [#403](https://github.com/zen-audio-player/zen-audio-player.github.io/pull/403) in [zen-audio-player/zen-audio-player.github.io](https://github.com/zen-audio-player/zen-audio-player.github.io)
-3. ❗️ Opened issue [#66](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/66) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
-4. 💪 Opened PR [#65](https://github.com/VidhiBhatt01/The-Frontend-Store/pull/65) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
-5. 💪 Opened PR [#64](https://github.com/VidhiBhatt01/The-Frontend-Store/pull/64) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
-6. ❗️ Opened issue [#63](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/63) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
-7. 🗣 Commented on [#62](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/62) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+1. 🗣 Commented on [#65](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/65) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+2. ❗️ Opened issue [#68](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/68) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+3. ❌ Closed PR [#403](https://github.com/zen-audio-player/zen-audio-player.github.io/pull/403) in [zen-audio-player/zen-audio-player.github.io](https://github.com/zen-audio-player/zen-audio-player.github.io)
+4. ❗️ Opened issue [#66](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/66) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+5. 💪 Opened PR [#65](https://github.com/VidhiBhatt01/The-Frontend-Store/pull/65) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+6. 💪 Opened PR [#64](https://github.com/VidhiBhatt01/The-Frontend-Store/pull/64) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+7. ❗️ Opened issue [#63](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/63) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
 <!--END_SECTION:activity-->
 	 
 </b>
