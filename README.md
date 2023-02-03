@@ -118,13 +118,17 @@
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Akshata-Gunapache&theme=dark">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshata-Gunapache&theme=dark" width=49%/>
 </a>
+<!--
 <a href="https://activity-graph.herokuapp.com/graph?username=Akshata-Gunapache&theme=dracula">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Akshata-Gunapache&theme=dracula" width=99%/>
 </a>
+-->
 <hr>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata-Gunapache&layout=compact&theme=dracula">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshata-Gunapache&layout=compact&theme=dracula">
 </a>
+
 
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
