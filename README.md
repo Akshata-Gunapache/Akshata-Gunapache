@@ -153,13 +153,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2022 - To: 19 March 2023
+From: 10 April 2022 - To: 20 March 2023
 
-Total Time: 344 hrs 15 mins
+Total Time: 344 hrs 22 mins
 
-C            159 hrs 17 mins >>>>>>>>>>>>-------------   46.27 %
-HTML         61 hrs 24 mins  >>>>---------------------   17.84 %
-JavaScript   55 hrs 25 mins  >>>>---------------------   16.10 %
+C            159 hrs 24 mins >>>>>>>>>>>>-------------   46.29 %
+HTML         61 hrs 24 mins  >>>>---------------------   17.83 %
+JavaScript   55 hrs 25 mins  >>>>---------------------   16.09 %
 CSS          51 hrs 3 mins   >>>>---------------------   14.83 %
 Python       9 hrs 48 mins   >------------------------   02.85 %
 JSON         1 hr 44 mins    -------------------------   00.51 %
