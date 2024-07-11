@@ -1,16 +1,8 @@
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/96786500/181156099-dc5f9d9a-b599-4891-9a0d-24f8f2c0915c.gif">
-</p>
 <h1 align="center">Hi , I'm Akshata <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=A560F7&lines=Computer+Science+Student;Competitive+Programmer;Python%20|%20HTML%20|%20CSS%20|%20Javascript%20|%20C%20;5-Star⭐⭐⭐⭐⭐%20on%20Hackerrank(Python);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<!-- <p>
-<img src="https://user-images.githubusercontent.com/96786500/184495707-27ab80f3-a734-4083-ba48-2c02206b236d.png"><p align="cneter">I am a <b>Computer Science Student</b> at <b>PES University</b>, <b>Bangalore</b>. I like to <b>code, design, innovate</b> and <b>experiment</b> various domains of technology. I am an enthusiastic <b>self-learner</b> and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</p>
-</p> -->
-
-![github](https://user-images.githubusercontent.com/96786500/184496821-eb29082f-a850-43f5-a899-c11391ae6d04.png)
 
 
 <h3 align="center">
