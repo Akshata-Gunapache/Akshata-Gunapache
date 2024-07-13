@@ -128,7 +128,7 @@
  <summary><img src="https://img.icons8.com/nolan/64/time-machine.png"/ align="center" height="30" width="30"><b><h3> Recent GitHub Activity</h3></summary>
 	 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/80) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
+1. 💪 Opened PR [#1](https://github.com/nagesh-merva/CHEFS_BHOJAN_WEBSITE/pull/1) in [nagesh-merva/CHEFS_BHOJAN_WEBSITE](https://github.com/nagesh-merva/CHEFS_BHOJAN_WEBSITE)
 2. 🗣 Commented on [#80](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/80) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
 3. 🗣 Commented on [#80](https://github.com/VidhiBhatt01/The-Frontend-Store/issues/80) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
 4. 💪 Opened PR [#81](https://github.com/VidhiBhatt01/The-Frontend-Store/pull/81) in [VidhiBhatt01/The-Frontend-Store](https://github.com/VidhiBhatt01/The-Frontend-Store)
