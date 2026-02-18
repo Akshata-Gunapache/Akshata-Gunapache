@@ -145,15 +145,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2022 - To: 16 February 2026
+From: 10 April 2022 - To: 17 February 2026
 
 Total Time: 350 hrs 52 mins
 
-C            162 hrs 55 mins >>>>>>>>>>>>-------------   46.43 %
-HTML         61 hrs 31 mins  >>>>---------------------   17.53 %
-JavaScript   55 hrs 25 mins  >>>>---------------------   15.79 %
-CSS          51 hrs 33 mins  >>>>---------------------   14.69 %
-Python       12 hrs 10 mins  >------------------------   03.47 %
+C            162 hrs 55 mins       >>>>>>>>>>>>-------------   46.43 %
+HTML         61 hrs 31 mins        >>>>---------------------   17.53 %
+JavaScript   55 hrs 25 mins        >>>>---------------------   15.79 %
+CSS          51 hrs 33 mins        >>>>---------------------   14.69 %
+Python       12 hrs 10 mins        >------------------------   03.47 %
 ```
 
 <!--END_SECTION:waka-->
